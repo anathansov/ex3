@@ -1,0 +1,11 @@
+body{width:80%;
+margin:50px auto; }
+.flex{display:flex;justify-content: space-between;}
+.flex-col{display:flex;justify-content: space-between;flex-direction: column;}
+.screen{
+  width:100%;
+  margin:25px;
+  padding:10px;
+  background: yellow;
+  border:2px dashed orange;
+}
